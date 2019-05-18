@@ -1,4 +1,5 @@
-# List comprehension
+# doing list computations
+
 names <- c("Ritesh","Anil","Krishna","Pallavi")
 weights <- c( 72, 75 , 82,  51)
 genders <- c("Male","Male","Male","Female")
